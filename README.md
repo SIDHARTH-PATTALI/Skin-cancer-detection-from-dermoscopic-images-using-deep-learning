@@ -16,7 +16,7 @@ The model is trained on a dataset of labeled skin lesion images, including both 
 
 - **Data Preprocessing**: The images are resized, cropped, and preprocessed for model training.
 - **CNN Model**: A custom CNN model is developed and fine-tuned using transfer learning with pre-trained models like AlexNet and ResNet50 to enhance accuracy.
-- **Evaluation**: The model's performance is assessed using metrics like ROC curves and AUC score to determine the best threshold for classification.
+- **Evaluation**: The model's performance is assessed using metrics like Confussion matrix and AUC score to determine the best threshold for classification.
 
 ## Requirements
 
