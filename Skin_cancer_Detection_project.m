@@ -1,4 +1,4 @@
-% Skin Cancer Detection using Deep Learning, Fuzzy C-means, and GUI
+% Skin Cancer Detection using Deep Learning, Fuzzy C-means, and GUI-MATLAB
 
 %% Transfer Learning Using AlexNet
 
